@@ -1,4 +1,12 @@
-# 🍬 Ba-Effe: Effervescence Creatives Repository
+<div align="center">
+
+# 🍬 Ba-Effe
+
+### Effervescence Creatives Repository
+
+<img src="./assets/banner.png" alt="Ba-Effe Banner" width="800"/>
+
+</div>
 
 Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad. Yes, it's exactly what Ranbir Kapoor's character in Barfi could spell - if you know, you know.
 
@@ -7,7 +15,6 @@ Aha..I think you've guessed the theme we'll be working with? That's right - **Bo
 Whether you're taking your first steps in design or you're a seasoned pro, this is your space to contribute and collaborate.
 
 ---
-
 ## 🌟 What This Repo Is For
 
 We're building everything visual for Effervescence:
